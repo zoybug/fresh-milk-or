@@ -70,4 +70,4 @@ Course and portfolio use. If you fork for publication, cite the course materials
 
 This repository is an adapted public version of a course project. It preserves the main idea and learning purpose of the original work, but some details, datasets, methods, and presentation elements have been modified for sharing and educational use.
 
-This work is provided in good faith as a reference only and should not be copied or submitted as academic work by others.
+This work is provided in good faith as a reference only and should not be copied or submitted as academic work by others. Thank you! 
